@@ -6,7 +6,7 @@
 
 ---
 
-The right questions first. Everything else follows.
+*The right questions first. Everything else follows.*
 
 I build things, write, and photograph — not because I have to, but because I can't help it.
 Somewhere at the intersection of code, philosophy, and creativity.
@@ -26,4 +26,6 @@ Somewhere at the intersection of code, philosophy, and creativity.
 ---
 
 🌐 [tedaitesnim.com](https://www.tedaitesnim.com) &nbsp;·&nbsp; 📷 [Photography](https://www.tedaitesnim.com/photography) &nbsp;·&nbsp; ✍️ [Blog](https://www.tedaitesnim.com/blog)
+
+
 <a href="https://app.daily.dev/kadirkatirci"><img src="https://api.daily.dev/devcards/v2/Nop5zQL5DoyMT4QarlHVB.png?type=wide&r=hwt" width="652" alt="Kadir KATIRCI's Dev Card"/></a>
